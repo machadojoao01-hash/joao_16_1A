@@ -2,3 +2,6 @@
     color:rgb(239, 229, 248);
     background: rgb(236, 210, 210);
  }
+ header{
+   border-bottom: solid 2px ;
+ }
