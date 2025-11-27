@@ -13,4 +13,6 @@
    background: rgb(171, 158, 228);
    padding-bottom: 100px;
    padding-top: 100px;
+   display: flex;
+   justify-content: center;
  }
